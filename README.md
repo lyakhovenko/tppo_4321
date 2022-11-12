@@ -81,8 +81,7 @@ For example:
 <a name="support"></a>
 ## 9. Support
 
-Reach out to me at one of the following places!
-
+- Email at - lyakhovenko.kam@gmail.com.
 
 ---
 
