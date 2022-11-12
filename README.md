@@ -26,15 +26,11 @@ A client program for managing the device through the service (and checking the o
 <a name="dependencies"></a>
 ## 2. Dependencies
 
-Basic:<br>
-- [Python (>=3.8)](https://www.python.org/)
+- [Python (>=3.7)](https://www.python.org/)
 - datetime
 - os
 - sys
 - re
-
-Third-party:<br>
-
 - socket
 - json
 
